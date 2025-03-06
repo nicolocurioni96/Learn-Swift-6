@@ -9,16 +9,16 @@ var totalUSEStates: Int = 49
 
 let mascotName: String = "Mia 🐶"
 
-    
-    // Variable
-    fullName = "Apple CEO, Tim Cook"
-    totalUSEStates = 50
-    
-    // Constant
-    //mascotName = "Mario Rossi"
-    
-    print(mascotName + " is awesome!")
-    print("Total USA 🇺🇸 states: \(totalUSEStates)" + "\n")
+
+// Variable
+fullName = "Apple CEO, Tim Cook"
+totalUSEStates = 50
+
+// Constant
+//mascotName = "Mario Rossi"
+
+print(mascotName + " is awesome!")
+print("Total USA 🇺🇸 states: \(totalUSEStates)" + "\n")
     
 
 /*
