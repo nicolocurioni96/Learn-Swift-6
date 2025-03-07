@@ -52,6 +52,3 @@ let isModerator = false
 if isAdmin || isModerator {
     print("You have admin or moderator rights. 🔐")
 }
-
-
-
