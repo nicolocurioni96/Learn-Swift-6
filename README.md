@@ -8,7 +8,7 @@ In this series of tutorials, you’ll learn about Swift 6, a powerful programmin
 
 - [x] How to Code
 - [x] Basics of Swift (String, Int and Bool)
-- [ ] Variables and Constants
+- [x] Variables and Constants
 - [ ] If and Switch conditions
 - [ ] How to use Functions
 - [ ] How to use Optionals
