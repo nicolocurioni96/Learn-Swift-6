@@ -4,6 +4,7 @@ import SwiftUI
 //
 // ### Learn Swift 6 - How to code in Swift #1
 
+
 var fullName = "Tim Cook"
 var totalUSEStates: Int = 49
 
@@ -61,4 +62,3 @@ print("Total USA 🇺🇸 states: \(totalUSEStates)" + "\n")
  
  
  */
-    
